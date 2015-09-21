@@ -1,0 +1,16 @@
+{
+  "name": "e02-gulp",
+  "version": "1.0.0",
+  "description": "Exercise 02 - Learning the Basics and automation with Gulp",
+  "scripts": {
+    "install": "npm install -g gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodecourses/Gulp.git"
+  },
+  "homepage": "https://github.com/nodecourses/E02-Gulp#readme",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
