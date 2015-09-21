@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/nodecourses/Gulp.git"
   },
-  "homepage": "https://github.com/nodecourses/E02-Gulp#readme",
+  "homepage": "https://github.com/nodecourses/Gulp#readme",
   "dependencies": {
     "gulp": "^3.9.0"
   }
